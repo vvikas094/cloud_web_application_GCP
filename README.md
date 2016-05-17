@@ -7,6 +7,7 @@
 
 URL: http://dem-ode.appspot.com/
 ------------------------------------
+Note: This server is stopped now.  
 
 > Created a Google App Engine application 
 > to perform image manipulations submitted by the user
