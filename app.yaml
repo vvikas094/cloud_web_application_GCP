@@ -1,0 +1,21 @@
+application: dem-ode
+runtime: python27
+version: 1
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /stylesheets
+  static_dir: stylesheets
+- url: /scripts
+  static_dir: scripts
+- url: /i
+  static_dir: i
+- url: /.*
+  script: main.app
+
+libraries:
+- name: PIL
+  version: "1.1.7"
+- name: webapp2
+  version: latest
