@@ -55,11 +55,6 @@ Note: This server is stopped now.
 - These two values are stored in the datastore
 - All user feedbacks are retrieved from the datastore, and are displayed at the bottom of the page
 
-# Version
-1.0
-
-# Example
-An Sample image url is submitted by the user.
 
  - Web app homepage
 **dem-ode.appspot.com**
