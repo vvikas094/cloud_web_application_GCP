@@ -1,6 +1,7 @@
 # cloud_web_application
 
-##Dynamic Web App using Web Services or NoSQL
+##Created a Google App Engine application to perform image manipulations submitted by the user using URL with additional parameters. User can rotate the image, change the Contrast, Sharpness and Brightness.
+###Dynamic Web App using Web Services or NoSQL
 
 ###Image Manipulation Web App
 ==========================
